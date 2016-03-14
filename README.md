@@ -38,5 +38,5 @@ License
 
 Copyright (c) 2016 Tomohiro Imaizumi.
 Released under the MIT License
-https://github.com/imaizume/tex-box/blob/master/MIT-LICENSE.txt
+https://github.com/imaizume/tex-sources/blob/master/MIT-LICENSE.txt
 
