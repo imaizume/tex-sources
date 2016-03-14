@@ -1,10 +1,10 @@
-Tex Source and Shellscript for PDF Complile
+Tex Source and Shellscript for PDF Compliling
 ===
 
 Introduction
 ---
 
-A repogitory of tex sources that are suitable for [tex-box](https://github.com/imaizume/tex-box) as a submodule.
+This is a repository of tex sources that are suitable for [tex-box](https://github.com/imaizume/tex-box) as a submodule.
 
 [tex-box](https://github.com/imaizume/tex-box) is a virtual environment of [Vagrant](https://www.vagrantup.com/) that enables non-unix like OS users such as Windows to compile `.tex` (LaTeX) file into `.pdf` (PDF).
 
@@ -22,7 +22,7 @@ cd /vagrant
 
 That's All!
 
-You can covert any source of latex anywhere in this repogitory.
+You can covert any source of latex anywhere in this repository.
 
 Just copy recursively and make your own latex sources!
 
